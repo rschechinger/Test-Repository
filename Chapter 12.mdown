@@ -1,0 +1,832 @@
+
+# Chapter 12: Fees and Client Property
+
+## The Hourly-Rate (Fixed) Fee
+
+What is the first question? How much per hour
+
+What is the second most important question to ask if you are the client being told about an hourly fee arrangement?
+
+The Old School: Ned Lemkemeier and the small defense firm.
+
+BILLABLE HOURS, get into the nitty gritty!
+
+So you run down every citation and file every motion, even if it would be cost-effective for the client to do less.
+
+If you are making an argument, do you need string cites of 10 or 20 cases showing authority?
+
+How about ONE CONTROLLING CASE, ON ALL FOURS for each argument? A 10-page memo instead of a 50-page memo.
+
+
+## The "Reasonable" Fee
+
+Not just gouging! A billionaire comes in and says, “I want a $300 will.” Can that be a reasonable fee for the work required?
+
+All this back and forth, can you do this, can you do that.
+
+Overarching order is FEES MUST BE REASONABLE.
+
+You go to Rule 1.5(a) and look at the 8 factors. Toss in the sophistication of the client. The reputation of the lawyer.
+
+
+## Is a 44% fee unreasonable?
+
+Look at Rule 1.5(a) and the 8 factors.
+
+The Code used to prohibit “clearly excessive fees.” Now, the RULES impose an affirmative obligation of a REASONABLE FEE.
+
+
+Fees seem high, but were discussed BEFORE the work. The client is an educated professional. She knows what other lawyers charge, but she sticks with Novak.
+
+ANY FEE arrangement creates incentives that are arguably anti-client. A lawyer paid a FLAT FEE has an incentive to settle quickly. A lawyer paid BY THE HOUR has an incentive to over-prepare. Large firms can abuse. Three partners editing the perfect memo.
+
+We can recognize the conflicts and explain them to the client, but probably not SOLVE them.
+
+Barber: Do you need a haircut?
+
+The apparent lack of novelty of the case
+
+Don’t get too fixed on the fee customarily charged (that starts sounding like antitrust again)
+
+
+## Charge Poor People Less?
+
+Rule 1.5 Comment 3: “It is proper to define the extent of services in light of the client’s ability to pay.”
+
+Rule 6.1 “Voluntary Pro Bono Publico Service” Comment 6: “substantially reduced fee for services” for poorer people.
+
+
+## Limit Freedom of Contract Between Lawyer and Client?
+
+Some typical abuses:
+* Agreement for 1/3 contingency, but there is very little to do.
+* Lawyer billing for work normally done by assistants.
+* Law is harder on lawyer who springs the high fee on the client with no warning after the work is done.
+
+A $400 per hour partner filing or summarizing a deposition.
+
+
+## May Bar Association Publish a Schedule of Fees?
+
+Antitrust issues.
+
+What about schedules of MAXIMUM fees?
+
+
+One side effect of MORE lawyers can mean lower prices.
+
+The antitrust cases have condemned both because the maximums then become minimums.
+
+How about just reports about the average fee charged? Those might turn into de facto schedules.
+
+
+## PROBLEM: Hourly Fees
+
+__Problem 12-1__. Martyn flies to San Francisco for a client that pays full hourly rates for travel. If during a six-hour flight, Martyn works on another client’s matters for four hours, may she bill two clients a total of ten hours? What if the work on the plane was pro bono?
+
+__Rules__: MR 1.5(a) and (b); RLGL §34
+
+Consider the real world! You should be preparing for whatever they are sending you there to do.
+
+__Readings__: ABA Formal Opinion 93-379; “End Billable Hour Goals . . . Now”
+
+__Result__: Depends on the agreement with client, but in the absence of adequate disclosure, clearly not. Pro bono is a closer call.
+
+__Reflections__: Larry’s story offers the class an opportunity to discuss the conflicts inherent in hourly fees, as well as whether law firms should continue to rely on billable hour goals. 
+
+This problem and the next consider issues addressed in ABA Formal Opinion 93-379. If the lawyer’s client has already agreed to pay for the lawyer’s travel time whether the lawyer worked on client matters, watched the movie, read a novel, or slept, is there any harm in double billing those four hours? The ABA Committee concluded that if it was made clear to the client at the outset that this was the case, the lawyer could bill ten hours for six elapsed hours of time. However, in the absence of such disclosure, the Committee concluded that lawyers were not free to manufacture hours; implicit in an agreement to bill by the hour was an agreement not to double bill.
+
+Students accustomed to “multi-tasking” often fight the latter conclusion. Asking them to articulate how many total hours the lawyer actually worked or how they would write the disclosure to justify the double billing might help. Of course, the inherent conflict in hourly billing is the temptation to pad the bill or double bill when fortuities like those in this problem occur, often without telling the client. California Formal Op. 1996-147 likewise concluded that two clients could each be billed for the same hour, but only if each consented ahead of time after the lawyer had disclosed this billing practice in “clear unambiguous terms.”
+
+The logic of the ABA opinion raises the further question whether the client’s informed consent to double billing would be enough to justify it as reasonable under MR 1.5. The California opinion held that even if both clients consent, the legal fee still may be “unconscionable,” and offered two measures of unconscionability: whether the clients got what they paid for, and whether each client in fact had exclusive use of the lawyer’s time. The California opinion concluded that the lawyer who had fully informed both clients about the potential for double billing and obtained both clients’ informed consent could bill for ten hours on the facts in this problem. Absent such consent, the first client has not “monopolized” the lawyer’s time and “should not be billed for the time devoted to someone else.”
+
+Applying the test of ABA Formal Opinion 93-379 to the pro bono work is more difficult. The answer to what time was actually spent on which client’s behalf remains the same. If Martyn can bill the client for sleeping or reading, why can’t she bill for the pro bono work? If Martyn truly expects no fee from the pro bono case and the first client has agreed to pay full hourly rates for travel, it seems like Martyn can bill Client # 1 for six hours, even though Martyn actually spent only two hours on Client #1’s matter. But what if Martyn knows the pro bono case later might result in statutory attorney’s fees? Can she later claim the four hours on the plane for Client #2 without reimbursing the first client? Of course, the best and “honest hour” result (see Ross, n. 27 p. 450) is to bill Client #1 for two hours, and Client #2 for four hours, which allows Martyn to claim the four hours later should the pro bono client prevail.
+
+The students also might want to consider the other hypotheticals addressed in the opinion: billing a client ten hours (or five hours) for a memorandum the lawyer already had in her files for which the first client had been billed ten hours, and going to court for five hours for three different client matters. The major principle of the opinion was that in the absence of complete disclosure billing by hours meant elapsed time, not double or triple counting or conversion of time elapsed to some qualitative judgment about what the hours (or minutes) were worth.
+
+
+## PROBLEM: Expenses
+
+__Problem 12-2__. May Martyn & Fox charge clients $2/page for all incoming and outgoing faxes? What about billing clients $200/hour for contract lawyers whose agency charges us $150?
+
+__Rules__: MR 1.5(a) and (b); RLGL §38 
+
+__Readings__: ABA Formal Opinion 93-379; Matter of Fordham
+
+__Result__: No, in the absence of disclosure to the contrary.
+
+__Reflections__: MR 1.5(a) applies the reasonableness standard to fees as well as expenses. The ABA Opinion also tackled the issue of expenses and disbursements. Indeed, the opinion itself was prompted by an article in the American Lawyer Magazine entitled “Skaddenomics” in which the reporter disclosed the huge mark-up the Skadden, Arps firm added to the cost of Danish pastries served at a client meeting. ABA Opinion 93-379 concluded that money spent on behalf of a client could not be “marked-up” on a client’s bill in the absence of full disclosure that that was being done. Similarly, the opinion observed that a law firm could pass on its actual costs of providing services such as photocopying and faxes or alternatively disclose to the client, in advance, the basis on which the client would be charged for these services. Most firms have chosen the latter route, sending rate cards to clients describing that the firm charges x¢ per page for photocopying and $x/hour for messenger services.
+
+Shortly after the opinion was issued a new and difficult question arose involving electronic legal research charges from Lexis and Westlaw. Until then, these vendors had charged the law firms by the hour, and charges were passed directly on to the client for whom the services were being employed. Now these vendors offer unlimited use of such services for a substantial flat fee per year. An interesting class discussion might consider a few ways to handle these expenses under those circumstances, when the client must be charged long before the actual cost (fixed charge divided by actual hours) can be calculated.
+
+
+## ABA Opinion 93-379
+
+>[The] lawyer who has agreed to bill on the basis of hours expended does not fulfill her ethical duty if she bills the client for more time than she actually spent on the client's behalf. In addressing the hypothetical regarding (a) simultaneous appearance on behalf of three clients, (b) the airplane flight on behalf of one client while working on another client's matters and (c) recycled work product, **it is helpful to consider these questions, not from the perspective of what a client could be forced to pay, but rather from the perspective of** ***what the lawyer actually earned***. A lawyer who spends four hours of time on behalf of three clients has not earned twelve billable hours. A lawyer, who flies for six hours for one client, while working for five hours on behalf of another, has not earned eleven billable hours. A lawyer who is able to reuse old work product has not re-earned the hours previously billed and compensated when the work product was first generated. Rather than looking to profit from the fortuity of coincidental scheduling, the desire to get work done rather than watch a movie, or the luck of being asked the identical question twice, _the lawyer who has agreed to bill solely on the basis of time spent is obliged to pass the benefits of these economies on to the client. The practice of billing several clients for the same time or work product, since it results in the earning of an unreasonable fee, therefore is contrary to the mandate of the Model Rules. Model Rule 1.5._ 
+
+If you agree to bill by the hour, then DO IT. Don’t let the economies associated with the result inure to the benefit of the client.
+
+
+## Model Rule 1.5, Comment [5]: Terms of Payment
+
+>An agreement may not be made whose terms might induce the lawyer improperly to curtail services for the client or perform them in a way contrary to the client's interest. For example, a lawyer should not enter into an agreement whereby services are to be provided only up to a stated amount when it is foreseeable that more extensive services probably will be required, unless the situation is adequately explained to the client. Otherwise, the client might have to bargain for further assistance in the midst of a proceeding or transaction. However, it is proper to define the extent of services in light of the client's ability to pay. __A lawyer should not exploit a fee arrangement based primarily on hourly charges by using wasteful procedures.__
+
+
+## Billable Hours
+
+Dean Patrick J. Schlitz, On Being a Happy, Healthy, and Ethical Member of an Unhappy, Unhealthy, and Unethical Profession, 52 Vand. L. Rev. 871 (1999)
+
+As one lawyer responded to a bar survey on quality of life: “This is not a life!” 
+
+The only way around it is MONKEY BUSINESS with billable time.
+
+Experiments with premium billing.
+
+
+## History of “Billable Hours”
+
+* 50 years ago: 1200-1500 hours per year
+* 40 years ago:
+    * partners: 1200-1400 hours per year
+    * associates: 1400-1600 hours per year
+* 1980s: NYC firms 1800 hours per year
+
+Today? 
+
+***Basically wound up here after doing the Schiltz analysis***
+
+
+## Billable Hours
+
+You will bill about 2 hours for every 3 you are at work. Thus, to bill 2,000 hours per year, you will spend about 60 hours per week at the office and take no more than 2 weeks off.
+
+2000 hours ÷ 50 weeks = 40 hours billable or 60 hours total
+
+10 hours per day, 6 days per week. Add transportation time (45 minutes x 2). You leave home at 7:45 am. Work from 8:30 a.m. until 6:30 p.m. Arrive home at 7:15 p.m.
+
+Do this six days per week, every week, not just for a month or two, but year after year. 
+
+Patrick J. Schiltz “On Being a Happy, Healthy, and Ethical Member of an Unhappy, Unhealthy, and Unethical Profession, 52 Vand L Rev 871 (1999)
+
+Vacation, sick, personal leave; Funerals, family doctor appointments.
+
+Think of yourself as a LAWYER, not as an EMPLOYEE
+
+
+## Model Rule 6.1 Voluntary Pro Bono Publico Service
+
+>Every lawyer has a professional responsibility to provide legal services to those unable to pay. A lawyer should aspire to render at least (50) hours of pro bono publico legal services per year . . . . 
+
+
+## Interests at stake
+
+* The individual lawyer;
+* Lawyer relationships;
+* Clients;
+* Non-clients;
+* The legal system.
+
+
+## Slide 20
+
+<!-- Slide 20 includes diagram -->
+
+the honeymoon period
+
+
+## Mark Weber
+
+Nebraska Counsel for Discipline
+
+ Mailing Address: 
+3808 Normal Blvd 
+Lincoln, Nebraska 68506
+ 
+Phone: (402) 471-1040 
+FAX: (402) 471-1014 
+ connie.kane@nebraska.gov
+
+
+Let’s say you goof. You do violate one of the Rules of Professional Conduct. You can be disbarred, you can be suspended, you can be privately or publicly reprimanded.
+
+One thing the Court looks at is this: Did you TRY TO SEEK HELP? Did you call a Judge, a senior lawyer, the state counsel for discipline, the ABA ethics Committee. 
+
+I can think of two cases where lawyers called, got good advice, FAILED to follow the advice, and were still shown leniency because THEY TRIED. THEY SOUGHT HELP.
+
+Dennis Carlson, the Nebraska Counsel for Discipline, is a graduate of this law school. He comes and speaks to our Legal Profession classes. He’s a smart, approachable guy.
+
+I knew I was going to be speaking to you all and I was a bit leery of telling three hundred lawyers to call anybody for advice, so I e-mailed him.
+
+“Rick: Feel free to encourage lawyers to call me.  I would much rather deal with ethical problems that way than through the disciplinary system. Each day we receive 5-15 calls from attorneys asking for ethical advice.  We are happy to provide the service.”
+
+There you have it. The ultimate last resort for advice about professional conduct in Nebraska. Use it. 
+
+It’s fine to call Dennis Carlson’s office and use hypotheticals: “I have a friend of a friend who has a bloody axe and a bag of money and he wants to know if he has to turn it over to the cops”
+
+
+## Model Rule 1.6(c)
+
+Protects a lawyer seeking assistance from the Nebraska Lawyers Assistance Program.
+
+The Nebraska Lawyers Assistance Program (NLAP) helps lawyer, judges and law students who have problems with alcohol or substance abuse, stress, depression, any disorder that impairs their competence as a lawyer. Your dealings with that program are confidential. 
+
+SIMPLE NEGLECT is HALF of the complaints he gets, upon further investigation behind those complaints He typically finds a lawyer with an alcohol or substance abuse or prescription drug abuse problem. 
+
+
+## Slide 23
+
+<!-- Slide 23 includes diagram -->
+
+Offer to go along and not charge. Make entry in time sheets. Lunch with client. 0 charge.
+
+
+## Kronman
+
+It is of course rewarding to become technically proficient in the law. But earlier generations of American lawyers conceived their highest goal to be the attainment of a wisdom that lies beyond technique--a wisdom about human beings and their tangled affairs that anyone who wishes to provide real deliberative counsel must possess. 
+
+
+People choose a career in the law for many reasons. Some do so for money and others for power and prestige, and a few, at least, become lawyers in order to advance their political ideals. But these are all external reasons for choosing a life in the law. They all portray the practice of law as a means to an end that lies beyond it. There is nothing wrong with any of these reasons. They are all respectable, and the last is genuinely admirable. But whatever external goals they aim to achieve through the practice of law, most lawyers also hope that their work will be a source of satisfaction in itself. Indeed, many hope that the intrinsic satisfactions it affords will be important enough to play a significant role in their fulfillment as human beings. Not everyone who becomes a lawyer looks for this kind of fulfillment in his or her work. But many do, and the professional pride of lawyers as a group has always depended on the belief that what they do has the potential to be rewarding in this way.
+
+It is just that belief, however, which is now faltering and whose enfeeblement has caused the crisis in which the American legal profession is now caught. This crisis is, in essence, a crisis of morale. It is the product of growing doubts about the capacity of a lawyer's life to offer fulfillment to the person who takes it up. Disguised by the material well-being of lawyers, it is a spiritual crisis that strikes at the heart of their professional pride.
+
+This crisis has been brought about by the demise of an older set of values that until quite recently played a vital role in defining the aspirations of American lawyers. At the very center of these values, was the belief that the outstanding lawyer--the one who serves as a model for the rest--is not simply an accomplished technician but a person of prudence or practical wisdom as well. It is of course rewarding to become technically proficient in the law. But earlier generations of American lawyers conceived their highest goal to be the attainment of a wisdom that lies beyond technique--a wisdom about human beings and their tangled affairs that anyone who wishes to provide real deliberative counsel must possess. They understood this wisdom to be a trait of character that one acquires only by becoming a person of good judgment, and not just an expert in the law. To those who shared this view it seemed obvious that a lawyer's life could be deeply fulfilling. For the character-virtue of practical wisdom is a central human excellence that has an intrinsic value too. But in the last generation this ideal has collapsed, and with it the professional self-confidence it once sustained.
+
+From THE LOST LAWYER: FAILING IDEALS OF THE LEGAL PROFESSION,
+
+Anthony T.Kronman, pages 2-3.
+
+http://www.law.yale.edu/faculty/AKronman.htm
+
+
+## Should a lawyer be able to increase her fees during the course of representation?
+
+Cases often go on for a LONG time. Sometimes your fiduciary duty arguably increases. Lawyer assumes a GREATER burden of showing the agreement to be fair and reasonable, and that any reason for an increase was totally unforeseeable.
+
+Remember the old contract rule. Courts put themselves in the shoes of the party AT THE TIME THE CONTRACT WAS MADE. Did something happen that has a catastrophic effect and was totally unforeseeable, when the agreement is reached? 
+
+The lawyer then takes the risk that it will work out better or worse.
+
+The Restatement section 34 on page 107 is that POST-CONTRACT events can be considered in evaluating the fee.
+
+Only events not reasonably seen as possible at the time of the original contract may be considered.
+
+
+## When Lawsuits Happen
+
+Courts put themselves in the shoes of the parties at time the contract was made.
+
+How do the parties deal with each other, Yes, but also how the industry deals with these situations as a whole. This is the part of the knowledge that makes it dangerous for a NON-Entertainment lawyer to start mucking around in a publishing contract or a contract for personal services in the film industry.
+
+MARKET IS TOTALLY UNPREDICTABLE. Hard to determine before release whether a film, program, book or album will be a success. As a result the contract should be designed to address each party’s financial needs if the product succeeds or fails. 
+
+
+## What if the case settles before the attorney begins work?
+
+When do we judge the reasonableness of the fee arrangement? Rule 1.4(b): “A lawyer shall explain a matter . . . to permit the client to make informed decisions . . .”
+
+Model Rules don’t speak directly to this issue. Just because the fee seems high after the fact should not always mean it was “clearly excessive” or that it “shocks the conscience.”
+
+Could be a Rule 1.4 Communication Problem instead of a Rule 1.5 Fee problem
+
+ONE POSSIBLE STICKLER, esp. for unsophisticated client: Did the client fully understand how the fee arrangement worked. “So, if we settle the case next week, our firm still gets a third of your recovery. If that seems somehow unfair to you, then you should tell me now . . .”
+
+If lawyer was not candid with this client or did not candidly describe the merits of settling, then his problem is not only the size of fee, but his HONESTY with his own client
+
+
+## Contingent Fees 
+
+What exactly is the problem? Is billing by the hour better for the client?
+
+Why do contingent fees get a bad name?
+
+Entertainment law. Certain near perfect efficiencies in having the lawyer’s and client’s interest almost perfectly aligned: The more I get for you, the more I get for myself. Like agents and managers.
+
+Do contingent fee cases encourage clients to bring bad cases?
+
+It is hourly rate lawyers who have the incentive to pursue losing cases and run up hours.
+
+Lawyers charging contingent feels must constantly evaluate the prospects of their cases. Clear incentive not to waste time. One third of nothing is nothing. The incentive effect of the contingent fee should not be dismissed lighly
+
+
+## Entourage/Hollywood Representation
+
+Entourage revolves around Vincent Chase (Adrian Grenier), the TALENT
+
+His best friend and MANAGER is Eric Murphy (Kevin Connolly). "E", as his friends call him, is based on Mark Wahlberg's friend and executive producer Eric Weinstein. He's also been reported to be inspired by Stephen Levinson, Mark Wahlberg's manager.[5]
+
+Ari Gold (Jeremy Piven) is Vince's abrasive but lovable AGENT. The role has led to several nominations and Emmy Awards for Piven. Ari is based on Wahlberg's real-life agent Ari Emanuel.
+
+<!-- Slide 30 includes diagram -->
+
+The Players (pgs 773-832) This is your opportunity to SPOT TALENT
+
+THE TALENT
+
+PERSONAL MANAGER helps develop, guide, and enhance the career path of the entertainer, usually only 5-6 clients? 5% – 25%
+
+TALENT AGENT markets the entertainer’s services and procures employment offers and contracts for the client. Also as deal packagers. 10%;
+
+BUSINESS MANAGER (financial) - collects money, pay bills, manages loan-out, 5%. Talent calls and asks, “Can I afford this?” Good business mgrs teach the client fiscal restraint to weather the inevitable back slope of the career;
+
+ENTERTAINMENT LAWYER handles contracts, copyright, publicity and other topics; but also possibly tax, family, corporate, real estate, and other legal problems, 
+
+Weiler says that lawyers are paid standard hourly rates, but most take 5%.
+
+
+## Commissions
+
+<!-- Slide 31 includes diagram -->
+
+
+## Contingent Fee Conflicts
+
+In a personal injury suit, lawyer agrees to take a contingency fee of 33%. Before lawyer begins work, other side has offered $15K in settlement. Lawyer suspects a jury would award $60K, but it would take at least 200 hours of work to get in front of a jury. 
+
+200 x 200 = 40,000
+
+Real Estate agents do the same thing. 
+
+If I sell your house for 200,000 at 7% commission, I get $14k
+
+vs
+
+If I work for three months and sell your house at 250,000 at 7% commission I get $17.5k
+
+
+## Real Estate Agents: Same Conflict
+
+You hire me to sell your house and agree to pay me a 7% commission.
+Do I try to sell it for $200K in one day? Or do I work hard for weeks or months and try sell your house for $250K? The commission is $14K (with little or no work) vs. $17.5K (with a lot of showings and listings and negotiations and advertising).
+
+But everybody KNOWS these conflicts are there, so they are alert to them. They can guess along with the agent about how long these things take and the detrimental effect of a house on the market for too long.
+
+
+## The Defense Contingency Fee,  aka “Reverse” Contingency Fee 
+
+Defense counsel’s fee would be one-third of the difference between the prayer in the petition and the amount actually awarded. P asks for $1 million. Defense counsel litigates and convinces P to settle for $400,000. D pays fee of $200,000 to lawyer.
+
+The mirror image of the PI arrangement. 
+
+Iowa Supreme Court said no in 1980, but look at ABA Standing Committee on bottom of page 113.
+
+“contingent fees for defense counsel in civil cases do not violate the Model Rules provided the the amount saved is WHAT “reasonably ascertainable,” 
+
+The total fee is WHAT? reasonable, and the client’s consent is “fully informed.”
+
+Reverse contingency fee.
+
+
+## Creative Fee Idea
+
+Suppose the law required PI lawyers to ask the D to make an offer of settlement EARLY. If the offer is ACCEPTED, the PI lawyer would have to bill based on hours worked and total fee is no more than 10% of the recovery. If offer is REJECTED, the PI lawyer charges a contingent fee on (the Total Recovery minus the Initial Offer)
+
+
+## Contingent Fee Agreements
+
+Must be in writing signed by the client and shall state (1) the method by which the fee is to be determined, including the percentage or percentages that shall accrue to the lawyer in the event of settlement, trial or appeal; (2) litigation and other expenses to be deducted from the recovery; (3) and whether such expenses are to be deducted before or after the contingent fee is calculated. 
+
+The agreement must clearly notify the client of any expenses for which the client will be liable whether or not the client is the prevailing party.
+
+
+## What about expenses?
+
+Word processing, photocopying, messengers, overnight postage, experts, travel, exhibits, you name it. Can be LOTS of money.
+
+Expenses deducted BEFORE or AFTER 1/3 contingency fee is calculated? 
+
+Here is the recovery, subtract the fees, then divide by 3?
+
+$900,000 recovery, expenses are $300k. Does lawyer get $200k or $300k? 
+
+In engagement letter, give client examples of recovery and contingency and expenses.
+
+
+## Expenses Deducted BEFORE Contingency Fee Calculated
+
+  $900K recovery
+- $300K expenses
+---------------------------
+  $600K * 1/3
+
+
+
+## Expenses Deducted AFTER Contingency Fee Calculated
+
+  $900K recovery * 1/3
+  $300K for lawyer
+  $600K for Client
+- $300K expenses
+---------------------------
+  $300K for P
+
+
+## Matter of Fordham (Mass. 1996)
+
+The $50k DUI case.
+
+Fordham is “a very experienced trial attorney with impressive credentials.” Fordham explained that although he lacked experience in this area, he was knowledgeable and hard-working attorney and he believed he could competently represent Timothy.
+
+Bar counsel and Fordham have stipulated that all the work billed by Fordham was actually done and that Fordham and his associates spent the time they claim to have spent.
+
+
+## PROBLEM: Contingent Fees
+
+__Problem 12-3__. Martyn & Fox entered into a one-third contingent fee agreement with Client, who has been seriously injured by Drunk Driver, who everyone believed was uninsured. Two weeks later, after we have spent about 10 hours drafting and filing a complaint, it turns out that Drunk Driver was insured and her insurer offered the policy limits of $150,000, which Client accepts as a total settlement of the matter. Client threatens to file a disciplinary complaint unless we agree to reduce our fee to $5,000 ($500/hour). What should we do?
+
+__Rules__: MR 1.5(c); RLGL §35
+
+__Readings__: ABA Formal Opinion 94-389; In re Everett E. Powell, II
+
+__Result__: Depends on whether there was little risk of nonrecovery when Martyn & Fox took the case.
+
+__Reflections__: Both ABA Formal Opinion 94-389 (pg 453 M&F3rd) and Powell teach that lawyers may not always rely on an initial contract bargain. The ABA Opinion concludes that, even where liability is clear and some recovery is certain, a contingent fee can be ethically proper. 
+
+But see fn 15 on page 455 M&F3rd
+
+However, if in fact Martyn & Fox knew there was little risk of nonrecovery of the policy limits when Martyn & Fox took the case, Powell illustrates how a court could later find that the fee was unreasonable. Although the ABA Opinion at note 16 advises that fee arrangements should recognize the likelihood of an early favorable result by providing for alternative contingencies, it was written before the reasonableness requirement in MR 1.5(a) was extended to fees charged and collected, as well as fee contracts. In addition, of course, a contingent fee must be in writing to comply with MR 1.5(c).
+
+Rule 1.5 comment 3:
+Applicable law may impose limitations on contingent fees, such as a ceiling on the percentage allowable, or may require a lawyer to offer clients an alternative basis for the fee. 
+
+This is also the place to point out specific contingent fee requirements in your jurisdiction. The fee agreement in this problem may not pass muster in some jurisdictions because it does not comply with sliding scale fee percentage requirements. You also may decide to revisit conflicts of interest inherent in settling contingent-fee cases.
+ 
+__References__:
+__Discipline__: Disc. Counsel v. Smith, 918 N.E. 2d 992 (Ohio 2009) (lawyer who disbursed insurance proceeds to client following supervisor’s instructions violated “unambiguous” controlling N.Y. law making Rule 5.2 inapplicable, and charged an unreasonable fee publically reprimanded); attorney. Grievance Commn. of Md. v. Ashworth, 851 A.2d 527 (Md. 2004) (25% contingent fee not unreasonable even though matter settled within days because lawyers with excellent skills and reputations often can expend less time and effort to obtain satisfactory results); In re Hailey, 792 N.E.2d 851 (Ind. 2003) (absent a contrary agreement, a lawyer may take contingent fee only from funds actually collected; lawyer who took entire $1.6 million contingent fee from initial cash payment of $2 million publicly reprimanded); In re Fairman, 644 N.E.2d 862 (Ind. 1994) (lawyer who, inter alia, failed to reduce two contingent fee contracts to a writing suspended for two years); In re Swartz, 686 P.2d 1236 (Ariz. 1984) (lawyer who failed to reduce his 1/3 contingent fee, reasonable at the outset but which later became excessive because there was no issue about liability and the limits of available insurance, charged a clearly excessive fee despite approval by probate court and State Compensation Fund, suspended for six months and required to return the fee).
+__Validity of Contingent Fee Contract__: United States v. Overseas Shipholding Grp. Inc., 625 F.3d 1 (2010) (lawyer’s one-third contingent fee contract “ethically excessive” in whistleblower case despite clients’ lack of objection to fee); Alioto v. Hoiles, 2010 U.S. Dist. LEXIS 98967 (D. Colo.) (contingent fee contract voidable at client’s discretion when lawyer added additional charges for related matters, but lawyer may seek quantum meruit recovery); In re Sulzer Hip Prosthesis & Knee Prosthesis Liab. Litig., 290 F. Supp. 2d 840 (N.D. Ohio 2003) (contingent fee agreements unenforceable when entered into with plaintiff class members after both sides had signed memorandum outlining full settlement because there was no significant risk of nonrecovery); United States v. 36.06 Acres of Land, 70 F. Supp. 2d 1272 (D.N.M. 1999) (oral contingent fee contract not enforceable due to unclean hands for failure to obtain a written agreement but lawyers could recover in quantum meruit with appropriate reduction for withdrawal in the middle of the case); Gagne v. Vaccaro, 766 A.2d 416 (Conn. 2001) (oral contingent fee contract not enforceable, but lawyer may be able to recover for unjust enrichment); Schumacher Law Corp., Ltd. v. Taylor, 667 So. 2d 1121 (La. App. 1995) (contingent fee contract which was not clearly explained to client and which failed to distinguish in writing the personal injury contingency from the domestic hourly fee unenforceable); Am. Home Assurance Co. v. Golomb, 606 N.E.2d 793 (Ill. App. 1992) (fee contract that exceeded maximum contingent fee allowed under state statute void; quantum meruit recovery also barred because lawyer engaged in illegal conduct).
+__Reasonable or Unreasonable Fee__: Fourchon Docks, Inc. v. Milchem Inc., 849 F.2d 1561 (5th Cir. 1988) (sub-lease provision that set amount of attorney’s fees at 20% of the unpaid rent invalid because unreasonable); Brobeck, Phleger & Harrison v. Telex Corp., 602 F.2d 866 (9th Cir. 1979) ($1 million flat fee to prepare a petition for certiorari not unconscionable where $18 million judgment would have bankrupted the client; client had only a 1/200 chance of getting the petition granted, and sought an experienced lawyer whose work resulted in the Supreme Court granting certiorari and a favorable settlement of the case); In re Merry-Go-Round Enters., Inc., 244 B.R. 327 (Bankr. D. Md. 2000) (40% preapproved contingent fee that resulted in $71.2 million to lawyers reasonable because case was “imaginatively conceived, skillfully staged, thoroughly prepared, aggressively pursued, and timely and successfully resolved for the great benefit” of the bankrupt estate, even though contingent fee was 20 times hourly fee in the case); Anderson v. Kenelly, 547 P.2d 260 (Colo. App. 1975) (contingent fee contract unreasonable and unconscionable where little skill or effort was required to obtain correct information that resulted in immediate payment of life insurance proceeds).
+__Fee Forfeiture__: Lofton v. Fairmont Specialty Ins., 367 S.W. 3d 593 (Ky. 2012) (lawyer who withdrew form representation because he disagreed with client about realism of settlement value of the case forfeited all right to contingent fee; good cause for withdrawal does not equate with good cause for quantum meruit recovery).
+__Fee Arbitration__: Feldman v. Davis, 53 So. 3d 1132 (Fla. App. 2011) (limited arbitration clause in contingent fee agreement enforceable only if firm complied with Florida Rule on binding fee arbitration and had valid reason for withdrawing); Louis Firelson & Asso.PA v. Alkire, 6 A.3d 945 (Md. App. 2010) (Maryland lawyer who represented client in D.C. must comply with D.C. bar rule compelling fee arbitration).
+
+
+## PROBLEM: Reasonable Fee?
+
+__Problem 12-4__. Massachusetts, after competitive bidding, hired Martyn & Fox to sue the tobacco companies at a time when the suit seemed hopeless. The fee agreement, signed for Massachusetts by the Attorney General, called for a 25 percent contingent fee. Two years later, as part of an overall settlement with 40 states, Massachusetts was awarded $8.3 billion. Should Martyn & Fox collect $2.075 billion?
+
+__Rules__: MR 1.5; RLGL § 35
+
+__Readings__: ABA Formal Opinion 94-389
+
+__Result__: Assuming Martyn & Fox’s fee contract was reasonable when entered into, its recovery depends upon whether the contract can be reevaluated in light of the magnitude of the successful result.
+
+__Reflections__: The tobacco companies and 46 states agreed to a Master Settlement Agreement in 1998 to settle all pending class actions for $240 billion. 
+
+At the same time, the companies also agreed to pay “reasonable” attorneys’ fees to private law firms that represented each state according to a Model Fee Payment agreement, if the law firms submitted their claims to binding arbitration. Firms who elected arbitration also could attempt to enforce their contingent fee contract (minus the arbitrated amount paid directly from the defendants). 
+
+Under the Model Fee Payment Agreement, the arbitration panel was not limited to an hourly rate analysis, and was authorized to consider the factors in MR 1.5 to evaluate the amount the tobacco companies were going to be required to pay. The Panel was not authorized to determine whether the contingent fee agreements were reasonable. In Massachusetts, the arbitration panel awarded the private lawyers $775 million, or a little more than 9% of Massachusetts’ expected $8.3 billion recovery. Some of these lawyers sought to enforce the contract fee after the arbitration.
+
+Part H of ABA Opinion 94-389 says that both the appropriateness and the reasonableness of the amount of the fee should be judged “at the time entered into.” Applying this analysis, the Massachusetts lawyers took a substantial risk and should be able to enforce their contract. On the other hand, $2 billion in fees is an enormous amount of money and may look excessive if viewed after the fact, especially in light of the arbitrator’s amount of $775 million, which included both a reasonable lodestar plus a contingency enhancement.
+ 
+In the actual Massachusetts litigation, the trial judge ruled that the jurors could consider not only the contract fee, but also damage that could accrue to the state budget and harm to the reputation of the legal profession that could occur if the lawyers recovered the entire remaining $1.3 billion contract fee. 
+
+The jury allowed the firm to recover about $100 million more, or a total of 10.5 percent of the Massachusetts award. Following the verdict, one of the lawyers seeking the contract amount said: “We signed a contract with the Commonwealth eight years ago, took an impossible job, dedicated ourselves to the task for four years against an intractable adversary, and with our cocounsel, delivered the largest settlement in the history of the state.” 
+
+The Attorney General said: “When you get paid that amount of money, why do you want to grab more? They lost their way. And the money was more important to them than kids, than older people, than poor people. That’s what happened.” See, Frank Phillips, Jury Caps Fees Owed Tobacco Law Firms; Attorney General Cites a Victory, The Boston Globe A1 (Dec. 20, 2003).
+
+__References__:
+__Fee Arbitration Awards__: In re Fraser, 98 F. Supp. 2d 788 (E.D. Tex. 2000) (upholding $2.3 billion award to private counsel who elected to waive its 15% contingent fee); Brown & Williamson Tobacco Corp. v. Chesley, 749 N.Y.S.2d 842 (N.Y. Cnty. 2002) (majority arbitrators exceeded their power by awarding legal fees for litigation outside the state of California).
+__Validity of Contingent Fee Agreements__: Cnty. of Santa Clara v. Superior Court, 235 P.3d 21 (Cal. 2010) (government could hire private contingent-fee lawyers to pursue a public nuisance action against lead paint manufacturers as long as government lawyer supervises and controls all critical decision in the case); State v. Am. Tobacco Co., 772 So. 2d 417 (Ala. 2000) (contingent fee contract with private counsel hired by governor void for lack of compliance with statutory procedures); Philip Morris Inc. v. Glendening, 709 A.2d 1230 (Md. 1998) (25% contingent fee authorized by governor, approved by State Board of Public Works, and executed by State Attorney General valid and enforceable).
+__Discipline__: Okla. Bar Assn. v. Flaniken, 85 P.3d 824 (Ok. 2004) (1/3 contingent fee from probate estate despite fact that an anticipated will challenge never occurred not unreasonable; court rejects proposed hindsight test where a lawyer has otherwise lawfully contracted for a percentage of a client’s recovery).
+
+
+## PROBLEM: Reasonable Fee?
+
+__Problem 12-5__. Martyn & Fox’s client is sued for $10 million to be trebled as part of an alleged antitrust conspiracy among drug companies. May Martyn & Fox negotiate a fee agreement that would award the firm 25 percent of everything the client saves below $30 million?
+
+__Rules__: MR 1.5(c) and (d); RLGL §35
+
+__Readings__: ABA Formal Opinion 94-389
+
+__Result__: Yes.
+
+__Reflections__: This problem raises the question whether and under what circumstances a reverse contingent fee arrangement is ethical. ABA Formal Opinion 93‑373 addresses these questions. While it is generally viewed as a perfectly appropriate way to calculate a fee, like a regular contingent fee directly aligning the interests of the lawyer with the client, the ethical rub comes in setting the benchmark for determining the client’s “savings” from the lawyer’s work. 
+
+Just because a client is sued for $10,000,000 does not mean it is reasonable to award the lawyer some percentage of the difference between the amount paid in judgment or settlement and $10,000,000. On the facts of this problem, it looks like a reasonable negotiation took place between client and lawyer on setting the benchmark. The class might be reminded that in many jurisdictions plaintiffs are not permitted to state in a complaint an ad damnum amount beyond the amount necessary to establish jurisdiction, thus making it more different to set the benchmark.
+
+You might also want to point out here that contingent fees are prohibited only in criminal and divorce cases and explain why.
+
+
+## PROBLEM: Split Fee?
+
+__Problem 12-6__. Martyn & Fox routinely refers medical malpractice actions to Hastie & Moore, in exchange for one fourth of Hastie & Moore’s 40 percent contingent fee. Fox just discovered that Hastie & Moore has not paid us our share after settling the last two cases we referred. What should we do?
+
+__Rules__: MR 1.5(e); RLGL §47
+
+__Readings__: None
+
+__Result__: Depends on whether Martyn & Fox or Hastie and Moore have complied with MR 1.5(e).
+
+__Reflections__: The subject of referral fees has always been controversial. On the one hand, the profession wishes to encourage lawyers to refer client matters to those with more experience and expertise. 
+
+On the other, the idea of a lawyer making money simply for making a referral seems unprofessional and smacks of commercialism. 
+
+Some jurisdictions permit naked referral fees. See Pa. Rule Prof. Conduct 1.5(e). The Model Rules and another group of jurisdictions permit referral fees so long as the referring lawyer retains joint responsibility for the representation; i.e., if there is a malpractice claim, the referring lawyer can be on the hook, or the fee is divided in relation to the work. MR 1.5(e). 
+
+Still others only permit fee sharing to the extent the lawyers share the actual work. In all cases, the client must approve the arrangement and the overall fee must be reasonable. 
+
+One way to test this notion is to ask the students, why, if they are offered a naked referral fee, they should not tell the lawyer to send that portion of the fee back to the client.
+
+
+## Model Rule 1.5(e) Division of Fees
+
+A division of a fee between lawyers who are not in the same firm may be made only if:
+(1) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation;
+(2) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
+(3) the total fee is reasonable.
+
+Another place you can leverage (software technology compete with fees, referral fees)
+
+
+## In re Everett E. Powell, II (Ind. 2011)
+
+A $14k fee for dissolving a $42k trust?
+
+Respondent is Everett E. Powell II. Prior to Respondent’s representation of client TG, another attorney Mark Ross had represented TG in settling a personal injury action. TG had a history of drug and alcohol abuse and was in an abusive and controlling relationship with JS, the father of her six children.
+
+August 2004 - attorney Ross created a “special needs trust” to hold $42.5k to preserve TG’s eligibility for public assistance and to prevent rapid depletion by TG.
+
+TG starts demanding access, pressured, Ross believes by JS and his mother.
+
+October 2004 - TG and JS consult respondent attorney Powell.
+
+Because TG does not have funds for upfront fee, attorney Powell suggests a contingency fee.
+
+Next day, successor attorney Powell faxes Ross telling him of TG’s dissatisfaction and asking him to dissolve the trust.
+
+Powell leads Ross to believe that Powell will be successor trustee.
+
+Eventually Powell terminates the trust and charges almost $15k for his fee and $30k to TG.
+
+Hearing officer rejects 1/3 contingency and allows $3k based on 15 hours of work at $200 per hour.
+
+Held: “An unconscionable windfall under the totality of the circumstances.” (M&F p. bot 457 3rd ed)
+
+MATTER OF GERARD (p. 457 M&F 3rd) elderly hospitalized woman retains attorney to prepare a will and help recover certificates of deposit she believed were lost or stolen. 
+
+Fee agreement says “a retainer of an amount equal to 1/3 of all assets recovered.”
+
+He charged $250 for making the will and located 23 certificates of deposit, all safely deposited under the client’s name with a value of $450k.
+
+He retained a fee of $160k. Old lady’s estate sued him so he renegotiated his fee to just $28k (160 hours times his customary rate of $175 per hour.)
+
+Hearing officer found no evidence that the attorney knew collection of Randolph’s assets would be a simple, uncontested matter until AFTER Randolph signed the contingency fee agreement.
+
+
+## PROBLEM: Flat Fees
+
+__Problem 12-7__. Insurance company offers to hire Martyn & Fox to represent all of its insured physicians in medical malpractice cases for $200,000 per case. Can Martyn & Fox accept this arrangement?
+
+__Rules__: MR 1.5 
+
+__Readings__: Matter of Fordham; Lawyers and Clients: Insurance Defense. p. 324
+
+__Result__: Perhaps, but only if the amount of the flat fee is reasonable.
+
+__Reflections__: Fixed fees are an oft-heralded alternative to billable hours as a basis for charging clients. They overcome the conflict between the lawyer’s interests in billing many hours and the client’s interests in keeping the fee as low as possible. 
+
+For some engagements a fixed fee can be very appropriate. When the matters are sufficiently routine, the range of likely time is reasonably ascertainable and the lawyers are processing a large number of similar matters, the fact that some of the engagements might be more profitable and others less so puts little strain on the lawyer-client relationship. 
+
+On the other hand, fixed fees introduce their own kind of conflict. If the lawyer’s time vastly exceeds the hours anticipated at the beginning, the lawyer may lose ardor for the cause or too readily recommend a settlement that is not in the client’s interest, but very much benefits the underpaid lawyer. 
+
+Fixed fee contracts have been especially controversial when employed by insurance companies to pay lawyers hired to represent insureds. The defense bar has argued that it is unethical for lawyers to be hired on this basis because it shifts the responsibility for providing a defense from the insurance company to the lawyers. At some point the class should recognize that a fixed fee arrangement can provide too much incentive for the lawyer not to provide all the services that may be required for competent service.
+
+This problem might suggest one of the more inappropriate fixed fee arrangements – medical malpractice cases which can vary significantly in difficulty and likely result. 
+
+So even accepting a fixed fee proposal from a client could be problematic. But here, the arrangement is being struck by an insurance company perhaps looking to economize with respect to its contractual obligation to provide its insureds with a critical defense in matters that could involve exposure beyond coverage and affect reputational as well as financial interests of the insureds. That may make it particularly unlikely that a fixed fee arrangement would pass ethical muster. To make this point, you might ask students whether a $25,000 fixed fee on these facts would be reasonable.
+
+
+## Rule 1.5 comment 5
+
+An agreement may not be made whose terms might induce the lawyer improperly to curtail services for the client or perform them in a way contrary to the client's interest. 
+For example, a lawyer should not enter into an agreement whereby services are to be provided only up to a stated amount when it is foreseeable that more extensive services probably will be required, unless the situation is adequately explained to the client.
+
+<!-- Goes with prior slide FLAT FEES -->
+
+
+## Non-refundable or general retainer?
+
+>__Rule 1.5(a)(2)__. The factors to be considered in determining the reasonableness of a fee include . . . the likelihood if apparent to the client that acceptance of the particular employment will preclude other employment by the lawyer
+
+“Set aside the month of May for me.”
+
+(Like pay or play provisions in Hollywood)
+
+Just one factor but a big one.
+
+General retainers seem to be okay. Special retainers are more problematic.
+
+Some courts say, “Non-refundable fees violate the fiduciary relationship between lawyer and client.”
+
+Minimum fee arrangements and general retainers will be valid and not subject to discipline.
+
+Not a simple question.
+
+
+## PROBLEM: Fixed Fees
+
+__Problem 12-8__. Martyn & Fox agree to take on a breach of contract case for a fixed fee of $50,000. After two years of difficult litigation, Martyn & Fox asks client if the firm can switch to a contingent fee of 40 percent of any recovery. “It’s taken us a lot more time than we expected,” Fox intones. 
+
+__Rules__: MR 1.5, RLGL § 18, 38
+
+__Readings__: Practice Pointers: Fee Agreements
+
+__Result__: Fox has charged an unreasonable fee in violation of Rule 1.5(a), and the fee agreement will likely be invalided due to a presumption of undue influence.
+
+__Reflections__: Lawyers who amend fee agreements after the representation has commenced will face a presumption of undue influence which is difficult to overcome. 
+
+RLGL § 18 provides that clients may avoid contract modifications made beyond a reasonable time after the lawyer has begun to represent the client unless the lawyer can show that the contract and circumstances are fair and reasonable to the client. 
+
+For example, if Martyn & Fox had initially agreed to an hourly fee and the client, now broke, asked for a contingency fee amendment, the circumstances might be different. Here, Martyn & Fox has made a bad bargain, and they are stuck with it.
+
+__References__:
+
+__Discipline__: Ky. Bar Assn. v. Basinger, 53 S.W. 3d 92 (Ky. 20010) (lawyer who agreed to hourly fee and attempted to charge contingent fee suspended for 60 days); In re Curry, 16 So. 3d 1139 (La. 2009) (lawyers who modified firm’s fee agreement with client during ongoing litigation in ways that favored firm’s interest violated Rule 1.8(a); suspended for six months); In re Marshall, 217 P.3d 291 (Wash. 2009) (lawyer who demanded additional fees after agreeing to a flat fee disbarred); In re Thayer, 745 N.E. 2d 207 (Ind. 2001) (lawyer who, after settlement of the case, presented client with a higher contingency fee than initially agreed to suspended for 30 days).
+
+__Validity of Amended Fee Agreement__: Guy Bennett Rubin PA v. Guettler, 73 So. 3d 809 (Fla. App. 2011) (clause in contingent fee contract that required client who discharged firm to pay an specified hourly rate for services performed up to the point of discharge unenforceable as a matter of law); Pezold, Richey, Caruso & Barker v. Cherokee Nation Indus., Inc., 46 P.3d 161 (Ok. Civ. App. 2001) (switch to contingent fee negotiated by client after experiencing difficulty paying initially agree to hourly fee valid despite case settlement one day after switch); Brown & Sturm v. Frederick Rd. Ltd. Pship., 768 A 2d 62 (Md. Ct. Spec. App. 2001) (reverse contingent fee contract entered into one year after lawyers began providing legal services to clients resulting in nearly $5 Million fee invalid).
+
+
+## PROBLEM: We’ve Been Fired Prematurely
+
+__Problem 12-9__. Martyn & Fox agrees to defend Client’s breach of contract action for a flat fee of $20,000. Six months later, Client fires us, saying, “I just like the lawyers down the block better,” and demands a refund of $15,000. What should Martyn & Fox do?
+
+__Rules__: MR 1.5, 1.15; RLGL §§ 40, 44
+
+__Readings__: In re Sather; Practice Pointers: Trust Fund Management
+
+__Result__: If Martyn & Fox can document the hourly time expended, they are entitled to no more than $20,000. If Client continues to dispute that amount, Martyn & Fox must keep the disputed amount in their client trust account until the matter is settled.
+
+__Reflections__: This problem identifies just one of several issues that arise in fixed fee contracts for legal services. If the client fires the lawyer, which is the client’s absolute right, is any fee earned? If so, how much? What if the client cannot find another lawyer to take on the matter for the unspent amount? What if the client fires the lawyer “for cause?”
+
+This problem also alerts students to the client’s right to fire them at any time, and the availability of quantum meruit fee recovery in some cases. Malonis represents the majority rule followed by most jurisdictions and RLGL § 40, and explains how the rule works in contingent fee cases. Sather explores the meaning of this rule in the context of flat fees, and also illustrates the operation of fee arbitration systems, mentioned at p. 482. The case also makes clear the ramifications for law firm trust fund management. Practice Pointers: Trust Fund Management further details the law governing trust funds.
+
+You can benefit the class at this point by returning to the last page or so of Practice Pointers: Fee Agreements, which ties the law of fee forfeiture to the law of quantum meruit. Some jurisdictions articulate this connection by holding that a client who fires a lawyer “for cause” is entitled to fee forfeiture, and if not for cause, is responsible under the RLGL §40 rule. Others apply the Restatement rule when the client fires the lawyer, leaving it to the client to point out a breach of fiduciary duty that might justify total or partial fee forfeiture. Chambers v. Kay, 56 P.3d 645 (Cal. 2002), similarly held that a fee splitting arrangement that did not comply with the applicable lawyer code provision was void, and refused to allow for quantum meruit recovery. We will return to these issues in Chapter 15, when we address issues of unauthorized practice and Birbrower.
+
+__References__: <br/>
+__Discipline__: Columbus Bar Assn. v. Halliburton-Cohen, 832 N.E.2d 42 (Ohio 2005) (lawyer charged clearly excessive fee to divorce client by charging a “lost opportunity” non refundable retainer because lawyer was already barred from representing others in the case and she did not agree to be available for any future representation; excessive fee combined with failure to refund unearned portion resulted in six months suspension); In re Kagele, 72 P.3d 1067 (Wash. 2003) (lawyer who neglected cases after collecting flat fee retainers refundable only if client’s termination of lawyer was “justified” suspended for one year); In re DuBarry, 814 So. 2d 1273 (La. 2002) (lawyer who failed to adequately account for her fees, failed to hold disputed funds in trust, and failed to supervise her then husband-partner when she had direct knowledge of his mishandling of the matter, suspended for one year); Fla. Bar v. Grosso, 760 So. 2d 940 (Fla. 2000) (lawyer who negligently failed to protect client’s gun collection suspended for 90 days).
+__Fees on Termination__: Olsen v. Harbison, 119 Cal. Rptr.3d 460 (2011) (discharged contingent fee lawyer entitled to quantum meruit recovery from former client but not from former co- counsel for payment); Cohen v. Radio-Elecs. Officers Union, Dist. 3, NMEBA, 679 A.2d 1188 (N.J. 1996) (six-month notice of termination clause in retainer agreement invalid, but lawyer entitled to quantum meruit for one month as reasonable compensation because notice of termination clause reduced legal fee); Teichner by Teichner v. W & J Holsteins, Inc., 478 N.E.2d 177 (N.Y. 1985) (lawyer’s fee forfeited whenever client discharges lawyer “for cause” but lawyer can recover quantum meruit if discharge was without cause); Fracasse v. Brent, 494 P.2d 9 (Cal. 1972) (client has the right to discharge lawyer with or without cause, and lawyer can recover in quantum meruit in either situation if contingency occurs).
+__Fees on Withdrawal by the Lawyer__: Augustson v. Linea Aerea Nacional-Chile S.A. (LAN- Chile), 76 F.3d 658 (5th Cir. 1996) (court approval of lawyer’s withdrawal over client’s objection not enough to justify any fee recovery where client eventually got a settlement twice what lawyer had urged client to accept); Faro v. Romani, 641 So. 2d 69 (Fla. 1994) (lawyer who voluntarily withdraws before contingency occurs forfeits right to all compensation); Carbonic Consultants, Inc. v. Herzfeld & Rubin, Inc., 699 So. 2d 321 (Fla. App. 1997) (lawyer who withdraws not entitled to compensation unless client’s conduct causes an ethical dilemma).
+__Receivership__: Fed. Savings & Loan Ins. Corp. v. Angell, Holmes & Lea, 838 F.2d 395 (9th Cir. 1988), cert. denied sub nom., Van Voorhis & Skaggs v. FSLIC, 488 U.S. 848 (1988) (law firm’s attempt to collect nonrefundable retainer contrary to federal policy and FSLIC’s statutory authority to disaffirm all contracts and hire its own counsel).
+__Trust Account Practices__: For a summary and comparison of various state trust account procedures, see Jeanne M. Whalen, Safekeeping Client Property: Why the ABA is Hands-Off and the States are Hand-Holding, 38 U. Tol. L. Rev. 1279 (2007).
+__Civil Liability__: Govt. of Rwanda v. Johnson, 409 F.3d 368 (D.C. Cir. 2005) (upholding liability and punitive damages for conversion and breach of fiduciary duty when lawyer failed to refund client’s trust account money; lawyer treated government client’s money as “a personal account with Rwanda’s former ambassador”).
+
+
+## In re Sather (Colo. 2000)
+
+Lawyer Sather agrees to represent Franklin Perez in a lawsuit against the Colorado State Patrol (Perez alleges they violated his civil rights during a traffic stop). Lawyer Sather and plaintiff Perez enter into a written agreement for legal services ($20k plus costs). 
+
+The written fee agreement refers to the $20,000 as: (1) a “minimum fee”, (2) a “non-refundable fee”, (3) a “flat fee”. 
+
+Contract states that Perez understands that he must pay this fee “regardless of the number of hours attorneys devote to his legal matter” (p. 459 MF3d). No portion of the fee would be refunded “regardless of the time or effort involved or the result obtained.” Contract acknowledged Perez’s right to discharge Sather as his attorney, but contract also advised none of the funds would be refunded. 
+
+Sather does not put the $20k in a trust account, he spends it, mainly because he’s also bankrupt (a state of affairs that Sather does not share with his client). State attorney General offers $6k in settlement, but Perez rejects.
+
+Sather gets suspended from the practice of law for 30 days. Perez, acting pro se, gets an extension of time to file a response. Sather provides a statement of fees at $7k and acknowledges he should refund $13k, but doesn’t.
+
+Rule 1.15(a) - KEEP CLIENTS’ MONEY IN SEPARATE ACCOUNT
+
+Segregate all client funds, including advance fees, until those fees are earned.
+
+If an attorney suggests that any pre-paid or advance funds are “non-refundable” then the client may fear loss of funds and may refrain from exercising his right to discharge the attorney (MF2d 427)
+
+General retainer or engagement retainer. 
+(attorney provides some benefit to client in exchange for the retainer)
+
+When a client pays an attorney before the attorney provides legal services, the crucial issue becomes whether funds are “earned on receipt” and may be treated as the attorney’s property, OR whether the fees are UNEARNED, in which case they must be segregated. 
+
+How do we tell the difference? Unless the attorney provides some benefit or service in exchange for the fee, the attorney has not earned any fees and cannot treat the fees as her property. Unless the fee agreement EXPRESSLY states that a fee is an engagement retainer and explains how the fee is earned upon receipt, we WILL PRESUME that any advance fee is a deposit from which an attorney will be paid for specified legal services.
+
+Nonrefundable?
+Not only Rule 1.15, but also Rule 1.16(d) and the always handy Rule 8.4(c) FRAUD.
+
+Read Trust Fund management p. 464-466 TWICE!!!
+
+Learn Jay Foonberg’s 10 Commandments on p. 466
+
+
+## Model Rule 1.16(d)
+
+>__Upon termination of representation, a lawyer shall take steps__ to the extent reasonably practicable __to protect a client's interests, such as__ giving reasonable notice to the client, allowing time for employment of other counsel, surrendering papers and property to which the client is entitled and __refunding any advance payment of fee or expense that has not been earned or incurred__. The lawyer may retain papers relating to the client to the extent permitted by other law.
+
+_In re Sather_. This is where the court said attorney Sather screwed up. He should have immediately refunded any unearned fees to Perez so that Perez could promptly hire another attorney to represent him.
+
+
+## PROBLEM: Fees on Termination
+
+__Problem 12-10__. Martyn & Fox agreed to take on Plaintiff’s malpractice suit for a fixed fee of $30,000 plus a contingent fee equal to 50 percent of all amounts in excess of $500,000. After Martyn & Fox spent $100,000 on the matter, Plaintiff hired Caldwell & Moore, which settled the suit for $500,000. What fee is Martyn & Fox entitled to collect and from whom?
+
+__Rules__: MR 1.5, 1.15; RLGL sections 40, 44
+
+__Readings__: Malonis v. Harrington; Practice Pointers: Trust Fund Management, Practice Pointers: Fee Agreements
+
+__Result__: Martyn & Fox are entitled to no more than $30,000, even if they can document $100,000 in time spent on the matter. If client disputes that amount, Martyn & Fox must keep the disputed amount in their client trust account until the matter is settled.
+
+__Reflections__: This problem identifies several issues that arise when a client leaves one lawyer or law firm and hires another. If the client fires the lawyer, which is the client's absolute right, is any fee earned? If so, how much? What if the client cannot find another lawyer to take on the matter for the unspent amount? What if the client fires the lawyer "for cause?" What if the lawyer withdraws?
+
+This problem alerts students to the client's right to fire them at any time, and the availability of quantum meruit fee recovery in some cases. 
+
+Malonis represents the majority rule followed by most jurisdictions and RLGL ¤40, and explains how the rule works in contingent fee cases. The case also makes clear the ramifications for law firm trust fund management. 
+
+__Practice Pointers__: Trust Fund Management further details the law governing trust funds. Perhaps the most interesting aspect of the decision is the court's placement of responsibility on the new lawyer to discuss and negotiate the first lawyer's entitlement to the fee. Although this makes perfect sense on the facts in the case, query whether the same rule should apply to clients who routinely use legal services and switch law firms.
+
+
+__Rules__: MR 1.5, 1.15; RLGL §§ 40, 44
+
+__Readings__: Malonis v. Harrington; Practice Pointers: Trust Fund Management, Practice Pointers: Fee Agreements
+
+__Result__: If Martyn & Fox can document the hourly time expended, they are entitled to no more than $30,000. If client continues to dispute that amount, Martyn & Fox must keep the disputed amount in their client trust account until the matter is settled.
+
+__Reflections__: This problem identifies several issues that arise when a client leaves one lawyer or law firm and hires another. If the client fires the lawyer, which is the client’s absolute right, is any fee earned? If so, how much? What if the client cannot find another lawyer to take on the matter for the unspent amount? What if the client fires the lawyer “for cause?” What if the lawyer withdraws?
+
+This problem alerts students to the client’s right to fire them at any time, and the availability of quantum meruit fee recovery in some cases. Malonis represents the majority rule followed by most jurisdictions and RLGL §40, and explains how the rule works in contingent fee cases. The case also makes clear the ramifications for law firm trust fund management. Practice Pointers: Trust Fund Management further details the law governing trust funds. Perhaps the most interesting aspect of the decision is the court’s placement of responsibility on the new lawyer to discuss and negotiate the first lawyer’s entitlement to the fee. Although this makes perfect sense on the facts in the case, query whether the same rule should apply to clients who routinely use legal services and switch law firms.
+
+
+## Malonis v. Harrington (Mass. 2004)
+
+Loiselle inured in car crash on April 26, 1991. Other vehicle driven by ee [employee] of Browning Ferris Industries. Within a few days Loiselle retains Malonis to represent her for a contingency fee 1/3. 
+
+Lawyer Malonis represents plaintiff Loiselle for a contingency fee against Browning-Ferris Industries (BFI). Malonis does a fair amount of work, but then gets fired. Loiselle hires a new lawyer Harrington (also on contingency). In early 1993, BFI makes settlement offer of $7,500, which Loiselle REJECTS. BFI ups the offer to $30k, which Loiselle also rejects. 
+
+June 1993 Malonis files a complaint in Superior court against BFI on Loiselle’s behalf. An orthopod examines her recommends disc surgery. Malonis sends report to BFI and now BFI decides to come back with $57k.
+
+BFI does not make the offer, but instead dickers with Malonis is the $60k-$80k range
+
+On 14 September 1994, Loiselle discharged Malonis and engaged Harrington.
+
+CAN SHE FIRE MALONIS?
+
+
+## Lodestar
+
+: a star that leads or guides; especially : POLESTAR 
+someone or something that serves as a guiding star or as a focus of hope or attention
+
+a strangely compelling . . . human lodestar whose influence half the time was unsuspected -- Struthers Burt 
+
+inconstancy and opportunism were the lodestars of the day -- Saturday Review
+
+
+## Perdue v. Kenny A. (Sct. 2010)
+
+lodestar plus enhancements?
+
+#### Presenter Notes: 
+
+Attorneys represented class action of 3000 children in the foster care system against the Georgia Governor and various state officials claiming deficiencies in the foster-care system in two counties near Atlanta. Attorneys submit a request for more than $14 million in attorneys fees. How did they arrive at that?
+
+How to award fees under fee-shifting statutes like 42 USC section 1988? How do we do it?
+
+Half is lodestar: 30,000 hours multiplied by hourly rates of $200-$495 for attorneys and $75-$150 for non attorneys. Court adjusted travel hours and non-travel hours and came up with $6 million.
+
+Lodestar “the prevailing market rates in the relevant community.” x number of hours worked.
+
+Plus, it is “objective” and thus cabins the discretion of the trial judges, permits meaningful judicial review and produces reasonably predictable results.” (M&F p. 473 3rd)
+
+Lodestar is a “reasonable” fee that is sufficient to induce a capable attorney to undertake the representation of a meritorious civil rights case.
+
+Enhancements may be awarded in exception circumstances?
+
+Did Justice Alito find those circumstances in this case.
+
+Court then enhanced by 75% why?
+
+M&F p. 472 3rd 
+(1) class counsel had to advance case expenses of $1.7 million over a 3-yr period; 
+(2) class counsel not paid on ongoing basis; 
+(3) completely contingent recovery
+
+Alito: District court did not employ a methodology that permitted meaningful appellate review. Method was “impressionistic” which means it’s unreviewable.
+
+Fee award committed to “sound discretion of trial court” but discretion is not unlimited.
+
+
+## PROBLEM:
+
+__Problem 12-11__. Martyn & Fox agrees to a one-third contingent fee contract with Client and spends 2,000 hours on Client’s federal civil rights action alleging police brutality against Local Municipality, resulting in injunctive relief and a jury verdict of $21,000. 
+What fee will Martyn & Fox receive? 
+What if Local Municipality offers to settle for injunctive relief in exchange for Client’s agreement not to seek statutory attorney fees?
+
+#### Presenter Notes: 
+
+__Rules__: MR 1.5; RLGL § 38
+
+__Readings__: Purdue v. Kenny A.; Practice Pointers: Fee Agreements
+
+__Result__: Martyn & Fox will recover only $7,000, unless Martyn & Fox specifically contracted with client to recover some or all of client’s statutory fees in addition to the contingent fee.
+
+__Reflections__: This problem alerts students to the availability of fee recovery in cases where statutes provide for fee shifting. 
+
+Students need to understand that statutory provisions can differ, and that fee-shifting provisions usually award fees to a prevailing party, not to the party’s lawyer. Students sometimes miss the importance and exclusivity of the lodestar under fee-shifting statutes since City of Burlington v. Dague, cited in Purdue.
+
+They may also forget that the lawyer’s fee will be determined by the contract with the client, which may include a set-off for the amount recovered under the statute. We based this problem on City of Riverside v. Rivera, 477 U.S. 561 (1986), where the Court upheld a lodestar fee of $245,456 in a civil rights case where the plaintiff recovered only $33,350 in damages.
+
+A similar result would occur in our problem. Martyn & Fox will recover their contractual contingent fee of $7,000, which will be in addition to or offset by the lodestar recovery, depending on the language of their fee contract. If the lodestar exceeds the contract amount, the remainder belongs to the client under most statutes, unless Martyn & Fox contracted with the client for the excess. In Gobert v. Williams, 323 F.3d 1099 (5th Cir. 2003), for example, the contract provided for a contingent fee in addition to any statutory fees awarded the plaintiff. The court held the lawyer could recover both, because the client did not challenge the contract’s validity.
+
+The problem’s last sentence facilitates class discussion of the impossible ethical dilemma a lawyer faces when defense counsel agrees to settle on a basis acceptable to the client, so long as counsel agrees not to seek a fee. While at least one ethics committee opinion concluded such offers were unethical, creating an impossible conflict of interest between lawyer and client, the United States Supreme Court in Evans v. Jeff D., 475 U.S. 717 (1986), concluded otherwise, holding that such settlements in class actions could be approved as long as the defendant did not have a policy, practice, or law that required waiver as a condition of settlement in civil rights cases.
+
+Purdue also can be used to facilitate a discussion about court-awarded fees in class actions, an issue not yet addressed by SCOTUS. The circuits are not bound by the Dague limitation to lodestar, which applies only to statutory fee awards. Class actions can involve the common fund doctrine if the parties agree that the lawyer’s fee will be part of the total settlement (something that did not occur in Purdue). But the circuits and the states cannot seem to agree on the correct approach. For years these fees were set at a percentage of recovery. Then with the Lindy I decision, Lindy Bros. Builders, Inc. of Phila. v. Am. Radiator & Stand. Sanitary Corp., 487 F.2d 161 (3d Cir. 1973), clarified in Lindy II, 540 F.2d 102 (3d Cir. 1976), courts started looking at the lodestar, adjusted upward by a multiplier for the contingency, the quality of the representation, and the excellence of the result. That, of course, provided incentives for lawyers to avoid early settlements and to churn hours with unnecessary discovery and aggressive staffing. Recently there has been a swing back to awarding fees on a percentage of the recovery basis.
+__References__:
+__Fee Shifting__: City of Burlington v. Dague, 505 U.S. 557 (1992) (enhancements beyond lodestar are not permitted under the solid-waste disposal act); Walker v. Guiffre, 35 A.3d 1177 (N.J. 2012) (contingency fee enhancements valid under state fee-shifting statutes despite Purdue). Buckhannon Bd. & Care Home, Inc., v. W. Va. Dept. of Health & Human Resources, 532 U.S. 598 (2001) summarizes the law regarding “prevailing party” status required by most fee- shifting statutes. The Court included a party who received a judgment on the merits, or a court-ordered consent decree, but specifically excluded a party who “wins” due to a defendant’s voluntary change in conduct not caused by the underlying lawsuit (such as repeal of an offending state statute). Left unclear is the plaintiff who enters into a private settlement; see, e.g., Grissom v. Mills Corp., 549 F. 3d 313 (4th Cir. 2009) (acceptance of party’s offer of judgment in Sarbanes-Oxley suit creates prevailing party status);Johnson v. D.C., 190 F. Supp. 2d 34 (D.D.C. 2002) (Buckhannon does not preclude the award of fees pursuant to the Individuals With Disabilities Education Act to plaintiffs who settle their IDEA claims during administrative proceedings); Sonii v. Gen. Elec., 2003 U.S. Dist. LEXIS 9701 (N.D. Ill.) (plaintiffs who settled Title VII action against their employer not “prevailing parties” under 42 U.S.C. § 2002e, but entitled to recover attorney’s fees as a result of G.E.’s discovery violations). See also Loggerhead Turtle v. Council of Volusia Cnty., 307 F.3d 1318 (11th Cir. 2002) (Buckhannon applies only to “prevailing party” statutes, not to “whenever appropriate” fee-award statutes such as the Clean Water and Clean Air Act); Sierra Club v. Envtl. Protection Agency, 322 F.3d 718 (D.C. Cir. 2003) (Clean Air Act, which authorizes an award of attorney’s fees “whenever [the court] determines that such award is appropriate,” allows for awards to plaintiffs who acted as “catalysts” to obtain substantial relief prior to an adjudication on the merits through settlement or otherwise).
+__Court Supervision of Reasonable Fee__: Chen v. Chen Qualified Settlement Fund, 552 F.3d 218 (2d Cir. 2009) (lawyer who “miscalculated” statutory fee entitlement forfeited all right to compensation); Willis v. Govt. Accountability Office, 448 F.3d 1341 (Fed. Cir. 2006) (lawyer has no standing to appeal a fee award because not a “prevailing party” under fee-shifting statute); Allapattah Services Inc., v. Exxon Corp., 454 F. Supp. 2d 1185 (S.D. Fla. 2006) (lawyer’s court approved incentive fee in class action case forfeited by failure to disclose fee- splitting agreement); Thompson v. Pharmacy Corp. of Am., Inc., 344 F.3d 1242 (11th Cir. 2003) (reasonable fee under 42 U.S.C. § 1988 includes time spent litigating fee request issue); Warnell v. Ford Motor Co., 205 F. Supp. 2d 956 (N.D. Ill. 2002) (class counsel’s failure to disclose contingent fee contract to court that approved settlement including reasonable attorney’s fee required to disgorge contingent fee); Heavener v. Meyers, 158 F. Supp. 2d 1278 (E.D. Okla. 2001) (court examined $78,251.95 fee request in civil rights case where plaintiff awarded $70,000, significantly reducing the request due to excessive billing, fee padding, relative simplicity of the case, and incorrect request for secretarial fees, resulting in a fee award of $25,490.90).
+__Class Action Fees__: In re Synthroid Mktg. Litig., 325 F.3d 974 (7th Cir. 2003) (consumer class counsel awarded 30% of first $10 million, 25% of the next $10 million, 22% of amount between $20 and $46 million, and 15% of remaining $88 million recovery); Nilsen v. York Cnty., 400 F. Supp. 266 (D. Me. 2005) (lodestar of $520,000 adjusted upward with contingency enhancement to $825,000, based on a “market-mimicking” approach); Blue Cross & Blue Shield of N.J., Inc. v. Philip Morris, Inc., 190 F. Supp.2d 407 (E.D.N.Y. 2002) (attorney fee of $37 million, in excess of contingency fee and in excess of judgment of $17 million, warranted by difficulty of case on the basis of lodestar due to novelty of legal theory under state law); Maley v. Del Global Techs. Inc., 186 F. Supp. 2d 358 (S.D.N.Y. 2002) (complexity, expense, and likely duration of securities litigation weighed in favor of approving a class action settlement of $11.5 million, including a 1/3 contingent fee); Lealao v. Beneficial Cal., Inc., 97 Cal. Rptr. 2d 797 (Cal. App. 2000) (trial court had discretion to adjust lodestar in successful $14 million consumer class action by applying a multiplier where necessary to insure that the fee awarded would be within the range of fees freely negotiated in the legal marketplace in comparable litigation).
+__The Limits of Evans v. Jeff D.__: Bernhardt v. Cnty. of Los Angeles, 279 F.3d 862 (9th Cir. 2002) (Evans recognized challenges to settlement agreements when a governmental unit exhibits a pattern or practice of requiring waiver of attorney’s fees or when such agreements had the effect of deterring lawyers from representing plaintiffs in civil rights cases; plaintiff had standing to assert that county’s policy to settle civil rights cases only in lump sums including attorney’s fees interfered with her implicit right to obtain a lawyer under 42 U.S.C. § 1988). See also Simultaneous Negotiation of fees and Merits: Practice Guide, ABABNA Lawyers’ Manual on Professional Conduct (8/3/2006).
+
+
